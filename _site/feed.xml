@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/archives/2017/fablabiu1/students/418/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/" rel="alternate" type="text/html" /><updated>2017-11-08T14:28:24-05:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418//</id><title type="html">Brandon Prentice - Fab Academy</title><subtitle>This is the official archive for Brandon Prentice's Fab Academy  assignments. The Fab Academy was developed to teach hands-on skills  in fab labs and began as an outreach project from MIT’s Center for  Bits and Atoms.
+</subtitle><entry><title type="html">Project Development</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/06/07/project-development.html" rel="alternate" type="text/html" title="Project Development" /><published>2017-06-07T10:25:21-04:00</published><updated>2017-06-07T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/06/07/project-development</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/06/07/project-development.html">&lt;h1 id=&quot;final-project-progress-so-far&quot;&gt;&lt;strong&gt;Final Project (Progress So Far):&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p style=&quot;color:red; font-size: 200%; text-align: center;&quot;&gt;&lt;strong&gt;January - March, 2017&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3D Modeling&lt;/strong&gt; - To incorporate the 3D modeling aspect for my project, I thought of using SketchUp as my primary learning tool. I’ve taught in Elem/Middle school areas when it comes to this kind of 3D printing where it can be simple, fun, and very accessable to the students. Other software that I have used for this kind of application include Tinkercad &amp;amp; 123D Design. I always found those two programs very similar on how they manipulate shapes and wanted to go a slightly different way. SketchUp is free like the others so I found this appealing to adapt in these same sort of classes I teach, where even younger students can load this program on their own personal computer.&lt;/p&gt;
+
+&lt;p&gt;I started with a simple cube shape where I subtracted away all of the hollow areas that you see in the pictures below. Once I made my guesses on where to put the openings for the buttons &amp;amp; 7-segment display, I “pushed” the 2D shapes inward to subtrate the material away. My last step was to add the 3D text on top, extruding it in such a way that I can switch colors of filiment during prints to bring out more contrast.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update10.jpg&quot; alt=&quot;update10&quot; width=&quot;40%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject3.jpg&quot; alt=&quot;sketchup screenshot1&quot; width=&quot;50%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Designing 2D Vectors&lt;/strong&gt; - I started by utilizing &lt;a href=&quot;http://makercase.com&quot;&gt;www.makercase.com&lt;/a&gt; which is a simple sketch generator to design a basic box shape with a percise finger joint layout. I chose this program because of it all being parametric, and good for projects with joinery. Once I plugged in the few parameter questions, it generated a .SVG file which can then be pulled into other vectoring software. I decided to experiment with Adobe Illustrator by importing, designing, and manipulating the file that will somday be either lasercut or CNC milled.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update11.jpg&quot; alt=&quot;update11&quot; width=&quot;32%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject2.jpg&quot; alt=&quot;ai screenshot1&quot; width=&quot;65%&quot; /&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I then moved into Adobe Illustrator to make this kind of design, which I knew had great node editing features that is also better than Inkscape. I’ve personally only used CorelDRAW in my lab during my time here as manager so I wanted to see the difference in this software. Obviously, the 2 liscenses are more alike than different. The only major differences is the tool layouts and labels for those tool features.&lt;/p&gt;
+
+&lt;p style=&quot;color:red; font-size: 200%; text-align: center;&quot;&gt;&lt;strong&gt;March - May, 2017&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;1st-schematic-attempt&quot;&gt;&lt;strong&gt;1st Schematic Attempt&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;I starting this process by studying the schematic/parts list for the orginal circuit I bought from China. Once I understood all of the parts, I went to our class archives to pull the Barduino board design to start from.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject4.jpg&quot; alt=&quot;china schematic&quot; width=&quot;98%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;From reviewing our Fab Lab inventory again with our SMDs in particular, I drafted a Google sheet organizing parts that our lab has already along with parts I need attached to specific vendors I found selling them cheap.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/15Tqll60QXBNMJWXsO1DBHgZAjhQ_d-58CE0piwSD-2s/edit#gid=687980215&quot;&gt;Both Original and Surface Mounted Materials Chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Using Eagle, I drafted the first schematic from the barduino by adding the buzzer, USB power supply, 7 segment display, and the buttons. Once completed, I traced everything appropriately, having the 7 segment display hovering over the entire board from extra legnth prongs that will still be soldered onto with surface mounts.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject6.jpg&quot; alt=&quot;clock schematic 1&quot; width=&quot;98%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject7.jpg&quot; alt=&quot;clock tracing 1&quot; width=&quot;98%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject8.jpg&quot; alt=&quot;milling clock circuit&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject9.jpg&quot; alt=&quot;soldering clock circuit&quot; width=&quot;48%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject10.jpg&quot; alt=&quot;soldered board&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject11.jpg&quot; alt=&quot;plugged in clock&quot; width=&quot;48%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Reflecting on 1st Schematic Attempt&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Improvements to consider:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Eliminating the x4 (499ohm) resistors going into the display (doing this does not burn out LEDs)&lt;/li&gt;
+  &lt;li&gt;Slightly moving over the 6 pin programming header so display doesn’t have to be unplugged to upload program.&lt;/li&gt;
+  &lt;li&gt;Create a larger footprint for the (16mHz) crystal for easier soldering.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/17invention1.jpg&quot; alt=&quot;invention pic 1&quot; width=&quot;100%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;video src=&quot;/archives/2017/fablabiu1/students/418/video/finalvideo.mp4&quot; width=&quot;100%&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;color:red; font-size: 200%; text-align: center;&quot;&gt;&lt;strong&gt;May, 2017 - Present&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;planning-ahead-future&quot;&gt;&lt;strong&gt;Planning Ahead (Future):&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming&lt;/strong&gt; - Within this next month, my plan is to develope and understand all that is needed for programming this board effectively. I have already studied the parts list of the original through-hole circuit here: &lt;a href=&quot;https://docs.google.com/spreadsheets/d/15Tqll60QXBNMJWXsO1DBHgZAjhQ_d-58CE0piwSD-2s/edit#gid=687980215&quot;&gt;Both Original and Surface Mounted Materials Chart&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have also located the datasheet for the 7-segment display listed to understand the each pin’s function found here: &lt;a href=&quot;http://www.taydaelectronics.com/datasheets/A-1730.pdf&quot;&gt;7 segment display datasheet&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;My next task will be to add the software control to mimic the original clock’s functionality. The left button cycles through setting the hour and minute, turning the hourly chime on or off, setting the hour and minute of the alarm, and turning that alarm on or off. When the clock is in normal operation, pressing the right button switches between HH:MM display and MM:SS for keeping accurate track of time.&lt;/p&gt;
+
+&lt;p&gt;Once the programming of the Chip has been completed, my last task is to incorporate the 2D/3D case designs into the new PCB while also making a vinyl cut label for the exterior.&lt;/p&gt;</content><summary type="html">Final Project (Progress So Far):</summary></entry><entry><title type="html">Invention, Intellectual Property, and Income</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income.html" rel="alternate" type="text/html" title="Invention, Intellectual Property, and Income" /><published>2017-05-31T10:25:21-04:00</published><updated>2017-05-31T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income.html">&lt;h1 id=&quot;high-school-lesson-plan-purpose&quot;&gt;&lt;strong&gt;High School Lesson Plan (Purpose)&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Students will learn to construct a digital clock circuit while designing a casing for it. This project gives students an understanding of basic electronics/circuitry as well as different fabrication features to build an exterior for it. Option to take this project an extra step further where students can learn from start to finish how to design the circuit board itself, have it cut from a CNC milling machine, and then programming a code into it.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Educational Standards&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;National Standards for Technological Literacy:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;STL9.9-12.L - The process of engineering design takes into account a number of factors.&lt;/p&gt;
+
+&lt;p&gt;STL11.9-12.Q - Develop and produce a product or system using a design process.&lt;/p&gt;
+
+&lt;p&gt;STL17.9-12.L - Information and communication technologies include the inputs, processes, and outputs associated with sending and receiving information.&lt;/p&gt;
+
+&lt;p&gt;STL17.9-12.P - There are many ways to communicate information, such as graphic and electronic means.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pennsylvania Academic Standards for Science, Technology and Engineering Education:&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;PA.3.4.10.C1 - Apply the components of the technological design process.&lt;/p&gt;
+
+&lt;p&gt;PA.3.4.12.C2 - Apply the concept that engineering design is influenced by personal characteristics, such as creativity, resourcefulness, and the ability to visualize and think abstractly.&lt;/p&gt;
+
+&lt;p&gt;PA.3.4.10.E4 - Evaluate the purpose and effectiveness of information and communication systems.&lt;/p&gt;
+
+&lt;p&gt;PA.3.4.12.E4 - Synthesize the effects of information and communication systems and subsystems as an integral part of the development of the Information Age.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Learning Objectives&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;1)  Students will identify different circuitry components to solder and produce a digital clock.&lt;/p&gt;
+
+&lt;p&gt;2)  Students will analyze principles of electrical engineering to design or form a circuit.&lt;/p&gt;
+
+&lt;p&gt;3)  Students will digitally fabricate a casing for a fitted circuit board.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;dissemination-plan&quot;&gt;&lt;strong&gt;Dissemination Plan&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Showcase at local events, fairs, camps, etc.&lt;/li&gt;
+  &lt;li&gt;Use as a official mobile lab lesson to show school district our wide range of processes.&lt;/li&gt;
+  &lt;li&gt;Share results and project proposal to the Fab Lab network.&lt;/li&gt;
+  &lt;li&gt;Develop a whole design brief for teachers interested in using this lesson in their classroom.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;licensing-choices&quot;&gt;&lt;strong&gt;Licensing Choices&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;2D Vectoring&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;During the length of this course, I have experiemented a lot with the capabilities of CorelDRAW and Adobe Illustrator; two excellent programs when it comes to node editing and vector layouts. Where Adobe’s layout feels more professional with it’s tool options, I still find CorelDRAW to be way easier to teach students at a younger age. The navagation/manipulation tools are easier to catch onto and to design the certain types of vectors we need for CNC machines. The other reason is the cost/availability. All of my labs already have a 1-time license fee for CorelDRAW where Adobe packages are twice the cost, with annual fees.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3D Modeling&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I am more open to the choice of this kind of software since starting my project proposal. I’ve gotten to use more free software (SketchUp, Tinkercad, etc.) for the great accessibility and easy interface with younger crowds. &lt;strong&gt;Since this project is for more advance students, the capabilities could be endless when it comes to sculpting the 3D model case itself. I have been playing around with Blender, Meshmixer, and Rhino 5 since this course, and would like to implement them for future oppurtunities.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Circuit Design&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Throughout this course, I have primarily used Eagle to do all of my circuit designs. Although it was very tricky for me at first, I have grown to feel comfortable when drawing out a design. My other software experience came to me from a friend working in electrical engineering, where he primarily used Kicad. My experiences with this software were very positive, but the one major downfall that I saw was the inability to create a monochrome PNG of my finished layout.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programming&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I started this academy school purchasing a MK11 programmer with AVR Studio 4 to pave the way through programming the various boards I would be making. As I moved through the course though, I began using our Arduino Uno’s we had in inventory and then eventually creating my own clone to do my programming for me on Arduino IDE. I found myself more attached with arduino’s IDE with it’s simplicity and largly universal support/communities behind it. It seemed like a very easy structure to learn for a 7-12th grade classroom and yet still can be used for the most advanced or complicated assignments.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;future-opportunities&quot;&gt;&lt;strong&gt;Future Opportunities&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;I find this project to be very intriguing for future classrooms. Integrating the fundamentals of graphic designing, 3D modeling, circuit board design, and programming. This formula puts all these variables into in a small fun package for students to explore the possibilities inside a Fab Lab while making their own practical item. I can see this project splitting off into many processes when it comes to design and purpose. Whether it’s the size and scope of the product, or the complexity of the program features that are uploaded into it. Many materials/processes can be experienmented with such as with glass, silicone molds, embroidery fabrics, and more!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/17invention1.jpg&quot; alt=&quot;invention pic 1&quot; width=&quot;100%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;video src=&quot;/archives/2017/fablabiu1/students/418/video/finalvideo.mp4&quot; width=&quot;100%&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+&lt;/center&gt;</content><summary type="html">High School Lesson Plan (Purpose)</summary></entry><entry><title type="html">Applications and Implications</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/24/applications-and-implications.html" rel="alternate" type="text/html" title="Applications and Implications" /><published>2017-05-24T10:25:21-04:00</published><updated>2017-05-24T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/24/applications-and-implications</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/24/applications-and-implications.html">&lt;h2 id=&quot;final-project-proposal&quot;&gt;&lt;strong&gt;Final Project Proposal:&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;center&gt;&lt;img class=&quot;bordered-image&quot; src=&quot;/archives/2017/fablabiu1/students/418/IMGs/16implication1.jpg&quot; alt=&quot;final project complete&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+	.bordered-image {
+		border: 5px solid;
+	}
+
+/*	#fab-lab-logo {
+		min-width: 100%;
+	}*/
+&lt;/style&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diy-fabricated-digital-clock&quot;&gt;&lt;strong&gt;DIY Fabricated Digital Clock&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h1 id=&quot;high-school-grades-9-12-lesson-plan&quot;&gt;&lt;strong&gt;High School (Grades 9-12) Lesson Plan&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  What will it do?
+  - Run a generic code to tell a 12-hour time, and be able to set
+   it up with 2 button controls.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Who's done what beforehand?
+
+  - As the teacher, I would prepare a schematic from Eagle laying
+   out all nessessary components for the students to connect and
+   then trace for the Roland MDX-20 milling machine. I will also
+   prepare a generic code for them all to send into their chip.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  What materials and components will be required?
+
+  - Casing material will include either 3D printer filiment
+  (3mm) or 1/4&quot; acrylic measureing 24&quot;x12&quot; for our laser
+  cutters. All electrical components for the original circuit
+  and surface-mount circuit are shown on this link here:
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;center&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/15Tqll60QXBNMJWXsO1DBHgZAjhQ_d-58CE0piwSD-2s/edit#gid=687980215&quot;&gt;Both Original and Surface Mounted Bill of Materials&lt;/a&gt;&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  Where will they come from?
+
+  - Most of the parts on my spreadsheet are provided from the
+  Fab Lab Inventory. Any part not included come from multiple
+  vendors shown in the chart as well as URLs on websites to buy
+  them from.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  How much will it cost?
+
+  - Most pieces range from 25 cents-$5 a piece. All prices that
+  I found are listed beside the vendors on the spreadsheet link
+  above. *Casing materials can be 3D printer filiment (priceless
+  depending on quantity) or 1/4&quot; acrylic which I can make x6
+  projects per 1 (24&quot;x12&quot;) sheet, which is $18-ish. 5V power
+  adapters have been donated to us by our tech department but
+  would be under $5 a piece.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  What parts and systems will be made?
+
+  - Both the circuit board and enclosure for it.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  What processes will be used?
+
+  - Both computer controlled cutting (Lasercutter) or 3D
+  printing for the enclosure. The circuit itself shows practice
+  in electronic production, design, and programming in a
+  easy-to-understand application.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  What tasks need to be completed?
+
+  - Waiting for the rest of my ordered SMD components to solder on
+  - Testing out my prototype board to see an active connection
+  - Programming a generic code into the chip
+  - Assembling time (glues, pressure-fitted, etc.)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  What questions need to be answered?
+
+  - Will the schematic I made be enough to run this board
+  successfully?
+  - Will I be able to find a generic clock code to copy from,
+  or will I have to write it all from scratch?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  What is the schedule?
+
+  - Complete the soldering and programming of the board. Last
+  step is to assemble the casing around it once the board
+  tests successfully.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;  How will it be evaluated?
+
+  - Can it successfully tell the time and have an accurate
+  timer on it to not lose any seconds?
+  - Does 7-segment diplay work accurately?
+  - Does the circuit board fit securely in the casing without
+  movement?
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;</content><summary type="html">Final Project Proposal:</summary></entry><entry><title type="html">Interface and Application Programming</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/17/interface-and-application-programming.html" rel="alternate" type="text/html" title="Interface and Application Programming" /><published>2017-05-17T10:25:21-04:00</published><updated>2017-05-17T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/17/interface-and-application-programming</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/17/interface-and-application-programming.html">&lt;p&gt;I started this assignment by researching and trying out the software “Processing” &lt;a href=&quot;http://www.processing.org&quot;&gt;(processing.org)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I then looked into how to properly hook up my Satshakit (Arduino Clone) to a servo motor at which I could program using the software application i create. I looked into an arduino webpage on syncing the arduino and processing IDEs so I was able to use the arduino clone in my application. Instructions link here: &lt;a href=&quot;https://playground.arduino.cc/Interfacing/Processing&quot;&gt;Arduino and Processing&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Once I finished downloading the nessessary libraries in the specific locations, I was then able to use more language in Processing. I played around with the arduino example called “servo” to learn it’s manipulations. Once I was comfortable with the software, I learned to place image files into the program. Below shows my final program used for my assignment:&lt;/p&gt;
+
+&lt;div style=&quot;height: 500px; overflow-y: auto;&quot;&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;processing&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;serial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;*&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Arduino&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;PImage&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;fab&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;PImage&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;oneCoolGuy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect1X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect1Y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;      &lt;span class=&quot;c1&quot;&gt;// Position of 1st square button
+&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect2X&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect2Y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;      &lt;span class=&quot;c1&quot;&gt;// Position of 2nd square button
+&lt;/span&gt; 
+
+&lt;span class=&quot;n&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect1Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//declare variables for over buttons
+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect2Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  
+  &lt;span class=&quot;n&quot;&gt;oneCoolGuy&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;loadImage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;brandon.PNG&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;fab&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;loadImage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fab.jpg&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  
+  &lt;span class=&quot;n&quot;&gt;size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;500&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;500&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//set size of window
+&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//sets up background color
+&lt;/span&gt;
+
+  &lt;span class=&quot;n&quot;&gt;println&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;());&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//lists available serial ports
+&lt;/span&gt;  &lt;span class=&quot;n&quot;&gt;arduino&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Arduino&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;list&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()[&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;57600&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; 
+  
+  &lt;span class=&quot;c1&quot;&gt;//use above line to change the serial port of your arduino
+&lt;/span&gt;
+
+  &lt;span class=&quot;n&quot;&gt;arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;pinMode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;SERVO&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;//Configure digital pins to control servo motors
+&lt;/span&gt;  
+
+  &lt;span class=&quot;n&quot;&gt;arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;servoWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;draw&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouseX&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mouseY&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;//read where the mouse is
+&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rect1Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;//check to see if mouse is over rectangle
+&lt;/span&gt;      &lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;oneCoolGuy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;50&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;    &lt;span class=&quot;c1&quot;&gt;//change image to brandon
+&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+     &lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fab&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect1X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect1Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//keep image as logo
+&lt;/span&gt;  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rect2Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;//check to see if mouse is over rectangle
+&lt;/span&gt;    &lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;oneCoolGuy&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;300&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;   &lt;span class=&quot;c1&quot;&gt;//change image to brandon
+&lt;/span&gt;  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; 
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+   &lt;span class=&quot;n&quot;&gt;image&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;fab&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect2X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect2Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;//keep image as logo
+&lt;/span&gt;  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;overRect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rect1X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect1Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;rect1Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;rect1Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;overRect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rect2X&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rect2Y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;150&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;rect2Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;rect2Over&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;mousePressed&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rect1Over&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;servoWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;180&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;rect2Over&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;arduino&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;servoWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;11&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+
+&lt;span class=&quot;n&quot;&gt;boolean&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;overRect&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;mouseX&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mouseX&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;width&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; 
+    &lt;span class=&quot;n&quot;&gt;mouseY&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;mouseY&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;lt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; 
+
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;false&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Next was to give a purpose to the servo motor. I decided to design and lasercut a head shape with multiple gears turning all made from 3mm plywood. I customly attached the servo to one gear for it to turn two more gears in sequence.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/15interface1.jpg&quot; alt=&quot;interface pic 1&quot; width=&quot;45%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Below shows how I wired my Satshakit to the PC and servo motor. You will notice that I used a breadboard to better distribute power from my FDTI cable to both the arduino and the servo motor.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/15interface2.jpg&quot; alt=&quot;interface pic 2&quot; width=&quot;90%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/15interface3.jpg&quot; alt=&quot;interface pic 3&quot; width=&quot;90%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The goal was to spin the servo motor 90 degrees each way. Each of the two buttons determine the direction of the motor turning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problems That Occured&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;-Not having any (single) female jumper wires to connect more than one power line to the devices needed.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;FIX: Using the breadboard itself as the female ends/ power needs&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;-The plastic gear on the servo continued to slip as it turned.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;FIX: Customizing a slotted joint and using small screws/glue to hold it all together.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nLdibtBuxlw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Servo_Program.zip&quot;&gt;Brandon Servo Code.zip&lt;/a&gt;&lt;/p&gt;</content><summary type="html">I started this assignment by researching and trying out the software “Processing” (processing.org).</summary></entry><entry><title type="html">Networking and Communications</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/10/networking-and-communications.html" rel="alternate" type="text/html" title="Networking and Communications" /><published>2017-05-10T10:25:21-04:00</published><updated>2017-05-10T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/10/networking-and-communications</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/10/networking-and-communications.html">&lt;p&gt;For Sarah and I’s group networking and communications assignment, we used both of our Arduino Uno Clones (&lt;a href=&quot;http://fabacademy.org/archives/2015/doc/projects/satshakit/satshakit.html&quot;&gt;Satshakit&lt;/a&gt;) to act as a master write to slave read connection through serial data line (SDA) and serial clock line (SCL) of both micro-processors. Here are the I/O’s board trace and completed circuit of the Satshakit Clone:&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network1.jpg&quot; alt=&quot;satshakit trace&quot; width=&quot;80%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network2.jpg&quot; alt=&quot;satshakit completed&quot; width=&quot;80%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The purpose for this program was to demonstrate a network communication as the master sends a signal to the slave, and the slave interprets the signal and performs an operation which in this case, we decided to use device that was part of an earlier assignment. The original assignment was to read temperature but we only used the different colored LEDs for multiple outputs. See “Input Devices” assignment here: &lt;a href=&quot;http://archive.fabacademy.org/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices.html&quot;&gt;Input Devices&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input3.jpg&quot; alt=&quot;input pic 3&quot; width=&quot;80%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Connecting Master-To-Slave Arduinos &amp;amp; Slave-To-LED Device:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Since all of the pinheaders/connectors we had are male, and that our lab had little-to-no female connectors, we needed to use an excess amount of wires, a breadboard, and a lot of our imagination to properly connect it all together, shown below:&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network3.jpg&quot; alt=&quot;master, slave, and output connections&quot; width=&quot;80%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The connections you see in the picture are:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2 separate FDTI Cables for operating Arduinos (One Connected to MASTER, the Other to SLAVE)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;The Breadboard which has two major functions:&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Creating a widely accessible Power/Ground hookup for the unversal power needed for multiple boards&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Plugging in the male headers on the boards themselves, in order to use male jumpers instead of females.&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The header pins for the 3 separate LED outputs are hooked up to 3 separate I/O’s on the SLAVE Arduino.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Below shows the programs we used for both master and slave micro-processors. The program is for the following commands in the Arduino serial monitor:&lt;/p&gt;
+
+&lt;p&gt;Type &lt;strong&gt;R&lt;/strong&gt; to turn on the &lt;strong&gt;RED&lt;/strong&gt; LED&lt;/p&gt;
+
+&lt;p&gt;Type &lt;strong&gt;O&lt;/strong&gt; to turn on the &lt;strong&gt;ORANGE&lt;/strong&gt; LED&lt;/p&gt;
+
+&lt;p&gt;Type &lt;strong&gt;B&lt;/strong&gt; to turn on the &lt;strong&gt;BLUE&lt;/strong&gt; LED&lt;/p&gt;
+
+&lt;p&gt;Type &lt;strong&gt;A&lt;/strong&gt; to turn on &lt;strong&gt;ALL&lt;/strong&gt; three LED’s&lt;/p&gt;
+
+&lt;p&gt;Type &lt;strong&gt;N&lt;/strong&gt; to turn on &lt;strong&gt;NONE&lt;/strong&gt; of the LED’s&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network4.jpg&quot; alt=&quot;networking program&quot; width=&quot;100%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Master Arduino Program:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div style=&quot;height: 500px; overflow-y: auto;&quot;&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;Wire.h&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+  &lt;span class=&quot;n&quot;&gt;Serial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;begin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;9600&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; 
+  &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;begin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;  
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;loop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Serial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;available&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    
+        &lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;outgoingByte&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Serial&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+        &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;outgoingByte&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;'R'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+          &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;beginTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;R&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+           &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+        &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;outgoingByte&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;'O'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+          &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;beginTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;O&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+           &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+        &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+        
+         &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;outgoingByte&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;'B'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+          &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;beginTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;B&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+           &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+  
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+             &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;outgoingByte&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;'A'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+          &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;beginTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;A&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+           &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+  
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+                &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;outgoingByte&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;'N'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+          &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;beginTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+            &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;write&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;N&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+           &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;endTransmission&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Slave Arduino Program:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;div style=&quot;height: 500px; overflow-y: auto;&quot;&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-cpp&quot; data-lang=&quot;cpp&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;//i2c Slave Code
+&lt;/span&gt;&lt;span class=&quot;cp&quot;&gt;#include &amp;lt;Wire.h&amp;gt;
+&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#define RED 8
+#define ORANGE 10
+#define BLUE 13
+&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;setup&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;begin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;8&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;onReceive&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;slaveExec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  
+  &lt;span class=&quot;n&quot;&gt;pinMode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RED&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;OUTPUT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;pinMode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ORANGE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;OUTPUT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;pinMode&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;OUTPUT&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;loop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;void&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;slaveExec&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;numOfBytes&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;while&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;available&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;())&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kt&quot;&gt;char&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Wire&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    
+  &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;sc&quot;&gt;'R'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RED&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HIGH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ORANGE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;sc&quot;&gt;'O'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+ &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RED&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ORANGE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HIGH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+ 
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;sc&quot;&gt;'B'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HIGH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RED&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ORANGE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+ &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;sc&quot;&gt;'A'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HIGH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RED&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HIGH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ORANGE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;HIGH&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;==&lt;/span&gt;&lt;span class=&quot;sc&quot;&gt;'N'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;BLUE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;RED&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;n&quot;&gt;digitalWrite&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;ORANGE&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;LOW&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+ &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MYKCZDOjAis&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/brandon_moded_satshakitpcb.brd&quot;&gt;Brandon’s Moded Satshakit.brd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Arduino_Master_Program.ino&quot;&gt;Arduino Master Code.ino&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Arduino_Slave_Program.ino&quot;&gt;Arduino Slave Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s group networking and communications assignment, we used both of our Arduino Uno Clones (Satshakit) to act as a master write to slave read connection through serial data line (SDA) and serial clock line (SCL) of both micro-processors. Here are the I/O’s board trace and completed circuit of the Satshakit Clone:</summary></entry><entry><title type="html">Composites</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/03/composites.html" rel="alternate" type="text/html" title="Composites" /><published>2017-05-03T10:25:21-04:00</published><updated>2017-05-03T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/03/composites</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/03/composites.html">&lt;p&gt;This was my process for toolpathing a 3D object, CNC milling it, and creating an epoxy mask over it to vacuum seal and form a composite.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3D Object:&lt;/strong&gt; Boat&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CNC Mill:&lt;/strong&gt; Shopbot&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Software:&lt;/strong&gt; Aspire&lt;/p&gt;
+
+&lt;p&gt;I started by importing a .STL file of a boat shape into our Aspire software. I then created the appropriate toolpaths with one roughing path (0.25” end mill bit), and one finishing path (0.125” ballnose bit). I ended up using a scrap piece of packaging styrofoam that was laying around to be my material (5”x11”x2”)&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites1.jpg&quot; alt=&quot;composite pic 1&quot; height=&quot;400&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites2.jpg&quot; alt=&quot;composite pic 2&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites3.jpg&quot; alt=&quot;composite pic 3&quot; height=&quot;200&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites4.jpg&quot; alt=&quot;composite pic 4&quot; height=&quot;400&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next procedure I did was getting all of the materials laid out and cut to size. The supplies needed for my assignment were:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;One Epoxy and CCF Hardener jugs (Part A&amp;amp;B)&lt;/li&gt;
+  &lt;li&gt;x3 fiber sheets cut to mold size (cloth)&lt;/li&gt;
+  &lt;li&gt;x2 Release film sheets cut to mold size&lt;/li&gt;
+  &lt;li&gt;Measuring cups and brushes&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;MSDS (Material Safety Data Sheet)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://entropyresins.com/wp-content/uploads/2014/03/Super-Sap-ONE-SDS-NAM-English.pdf&quot;&gt;https://entropyresins.com/wp-content/uploads/2014/03/Super-Sap-ONE-SDS-NAM-English.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;TDS (Technical Data Sheet)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://entropyresins.com/wp-content/uploads/2014/03/ONE-TDS.pdf&quot;&gt;https://entropyresins.com/wp-content/uploads/2014/03/ONE-TDS.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites5.jpg&quot; alt=&quot;composite pic 5&quot; height=&quot;400&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Afterwards, I took the pre-cut pieces of fabric and then cut darts into them to better fit around the mold.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites6.jpg&quot; alt=&quot;composite pic 6&quot; height=&quot;400&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;safety-precautions&quot;&gt;&lt;strong&gt;Safety Precautions&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;Apply in well-ventilated room&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Always wear safety glasses and gloves&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update4.jpg&quot; alt=&quot;safety&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+My last step was then creating the composite itself. I thoroughly mixed parts A &amp;amp; B together at a 2/1 ratio and brushed the solution onto each layer of cloth. I made sure to also place a layer of release film on the top as well as on the mold itself. Finally, I placed the entire composite inside of a vacuum bag and used our powerful dust collection system to suck the air out. I used a combination of a shop vac extention and the 3D printed hose adapter to securly fit the hose on the bag. Once it was done vacuuming, I let it sit for 24 hours before I trimmed the edges.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites7.jpg&quot; alt=&quot;composite pic 7&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites8.jpg&quot; alt=&quot;composite pic 8&quot; height=&quot;400&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites9.jpg&quot; alt=&quot;composite pic 9&quot; height=&quot;400&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/boat_composite_assignment.crv3d&quot;&gt;Boat Composite Model.crv3d&lt;/a&gt;&lt;/p&gt;</content><summary type="html">This was my process for toolpathing a 3D object, CNC milling it, and creating an epoxy mask over it to vacuum seal and form a composite.</summary></entry><entry><title type="html">Input Devices</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices.html" rel="alternate" type="text/html" title="Input Devices" /><published>2017-04-26T10:25:21-04:00</published><updated>2017-04-26T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices.html">&lt;p&gt;For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, which is a variable resistor that works as a voltage divider in order to send varying voltages to the Arduino serial monitor.  These varying voltages are read as temperature levels which you can change the range of voltages on.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Components Needed:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Arduino Clone (Satshakit) Board&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Breadboard&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;7 Male Pin Headers&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;X3 499Ω Resistors&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;X3 LEDs (Red, Orange, &amp;amp; Blue)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Temperature Sensor (LM35)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Designing the Traces:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;HEADER PIN 1 - Pin one (the pin on the left) of the temperature sensor goes to 5v&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;HEADER PIN 2 - Pin two (the pin in the middle) of the temperature sensor goes to analog pin A2&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;HEADER PIN 3 - Pin three (the pin on the right) of the temperature sensor goes to ground&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;HEADER PIN 4 - Red LED through one of the resistors, and ground&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;HEADER PIN 5 - Orange LED though a resistor, and ground&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;HEADER PIN 6 - Blue LED through a resistor, and ground&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;HEADER PIN 7 - GROUND (For LEDs/Resistors)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input1.jpg&quot; alt=&quot;input pic 1&quot; width=&quot;49%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input2.jpg&quot; alt=&quot;input pic 2&quot; width=&quot;49%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input3.jpg&quot; alt=&quot;input pic 3&quot; width=&quot;80%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coding&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The basic understanding when making the code was first assigning all of the individual arduino pins to the LEDS/Temp Sensor, and then having a series HIGHS/LOWS listed to light up the specific LED per range of temperatures, along with a quick message stating cold, fine, and hot.&lt;/p&gt;
+
+&lt;p&gt;I was researching for good resources to start on a temperature-reading program. I found an excellent page to start me in the right direction when it came to making the SMD schematic along with the program itself, which I had to alter slightly. See source here: &lt;a href=&quot;http://www.instructables.com/id/Arduino-LED-Temperature-Indicator/&quot;&gt;Arduino LED Temperature Indicator&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The program is set so that a &lt;strong&gt;BLUE LED&lt;/strong&gt; will turn on when temperature is below &lt;strong&gt;75 degrees&lt;/strong&gt;, an &lt;strong&gt;ORANGE LED&lt;/strong&gt; turn on when it’s &lt;strong&gt;73-80 degrees&lt;/strong&gt;, and  a &lt;strong&gt;RED LED&lt;/strong&gt; turn on when it’s above &lt;strong&gt;80 degrees&lt;/strong&gt;. Below are the connections Sarah and I made, followed by the program we used to run the input device using Arduino IDE and it’s built in serial monitor:&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input4.jpg&quot; alt=&quot;input pic 4&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input5.jpg&quot; alt=&quot;input pic 5&quot; width=&quot;80%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Problems Encountered:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This was actually my second attempt on a Temp sensor circuit. The original one was using a SMD temperature sensor with 1 indicator light displaying with certain brightness. I decided to make it simplier with a more common (through-hole) Temp sensor that I can assign individual LEDs to for easier programming.&lt;/p&gt;
+
+&lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mHjKRyi0c6c&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/temperature_sensor.sch&quot;&gt;Temperature Sensor.sch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/temperature_sensor.brd&quot;&gt;Temperature Sensor.brd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Temperature_Sensor_Program.ino&quot;&gt;Temperature Sensor Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, which is a variable resistor that works as a voltage divider in order to send varying voltages to the Arduino serial monitor.  These varying voltages are read as temperature levels which you can change the range of voltages on.</summary></entry><entry><title type="html">Molding and Casting</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/15/molding-and-casting.html" rel="alternate" type="text/html" title="Molding and Casting" /><published>2017-04-15T10:25:21-04:00</published><updated>2017-04-15T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/15/molding-and-casting</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/15/molding-and-casting.html">&lt;p&gt;This was my process for toolpathing a 3D object, CNC milling it, casting with silicon rubber, and lastly making the mold from a metal alloy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3D Object:&lt;/strong&gt; Albert Einstein Bust&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CNC Mill:&lt;/strong&gt; Shopbot&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Software:&lt;/strong&gt; V-Carve Pro&lt;/p&gt;
+
+&lt;p&gt;I started by searching the web on &lt;a href=&quot;http://thingiverse.com&quot;&gt;Thingiverse&lt;/a&gt; to search for a detailed bust. Once I pulled the appropriate .STL file, I imported it to V-carve Pro, where I manipulated it to fit inside of a rectangle shape I designed onto a 2”x6”x24” substrate (wood piece). I did have to flatten the bust quite a bit in order to properly cut into only a 1.5” piece of lumber. The finished designed was made into three toolpaths: 3D roughing with 0.25” ballnose bit, 3D finishing with 0.25” ballnose bit, and 3D finishing with 0.125” ballnose bit.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold1.jpg&quot; alt=&quot;mold pic 1&quot; height=&quot;350&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold2.jpg&quot; alt=&quot;mold pic 2&quot; height=&quot;350&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My next step was then creating the castof the 3D bust. Because I was melting metal for the mold, I used a special high temperature silicon rubber, called Mold Max 60, that can withstand temperatures up to 560 degrees Fahrenheit. I spray mold release onto the wood design and then started stiring part A&amp;amp;B of the silicon together.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold3.jpg&quot; alt=&quot;mold pic 3&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold4.jpg&quot; alt=&quot;mold pic 4&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold5.jpg&quot; alt=&quot;mold pic 5&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold6.jpg&quot; alt=&quot;mold pic 6&quot; height=&quot;200&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;
+The wait time for the silicon rubber to dry was 24 hours. On that next day, I prepared everything needed for the mold. The metal is an alloy called Roto 281F/138C Low Melt Bismuth Based Alloy, which is made of 58% bismuth and 42% tin. This metal has a melting temperature of about 300 Degree Fahrenheit. Since the metal is very soft, I cut it in half with our bansaw to fit in our crucible.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold7.jpg&quot; alt=&quot;mold pic 7&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold8.jpg&quot; alt=&quot;mold pic 8&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold9.jpg&quot; alt=&quot;mold pic 9&quot; height=&quot;200&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold10.jpg&quot; alt=&quot;mold pic 10&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;strong&gt;Lessons Learned:&lt;/strong&gt; From seeing the final result, I would change up the CNC wood design a little to get better results. The face looks a little too flat and plus the way his hair isn’t carved in as well sacrificed that detail in the end. I would re-evaluate getting a different material that would be thicker than 1.5” to accomodate more of the bust without flattening the design too much.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Albert.crv&quot;&gt;Albert.crv&lt;/a&gt;&lt;/p&gt;</content><summary type="html">This was my process for toolpathing a 3D object, CNC milling it, casting with silicon rubber, and lastly making the mold from a metal alloy.</summary></entry><entry><title type="html">Machine Design</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/05/machine-design.html" rel="alternate" type="text/html" title="Machine Design" /><published>2017-04-05T10:25:21-04:00</published><updated>2017-04-05T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/05/machine-design</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/05/machine-design.html">&lt;p&gt;Our final machine was a dot plotter. Once each machine was built we created a plate that was attached to the top that would hold the pen/marker. using X,Y cordinates we were able to program the machine to move at first back and forth and then once the other machine was added perpendicular to the other machine we could then draw a square.&lt;/p&gt;
+
+&lt;p&gt;To load all of the firmware and protocols to the terminal, we followed the step-by-step instructions (&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/modular_mtm_instructions.docx&quot;&gt;Modular MTM Instructions&lt;/a&gt;) to give us direct communications between us and the different node boards running each axis’.&lt;/p&gt;
+
+&lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;98%&quot; height=&quot;415&quot; src=&quot;https://www.youtube.com/embed/4vIFwATmlCA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The way we moved it in the code was typing &lt;strong&gt;“moves = [[1,1],[1,50],[50,50],[50,1],[1,1]]”&lt;/strong&gt; to move the sharpie to 4 equal corners while returning to it’s home origin. To improve on this machine design we would have liked to construct the body of the machine with a more sturdy material such as plywood, etc. Furture plans would include mounting it to a canvas to create an art machine. All in all it was a great project to explore how machines make machines. I was thrilled when the machine actually worked and was able to draw the line. For us, this was a successful week!&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/10machine1.jpg&quot; alt=&quot;machine pic 1&quot; width=&quot;98%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/10machine2.jpg&quot; alt=&quot;machine pic 2&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/10machine3.jpg&quot; alt=&quot;machine pic 3&quot; width=&quot;48%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update24.jpg&quot; alt=&quot;machine pic 2&quot; width=&quot;98%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/modular_frame.pdf&quot;&gt;Modular Frame.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/machineboxfile.pdf&quot;&gt;Machine Box File.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/xy_plotter.py&quot;&gt;Machine Code for Double Axis.py&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Our final machine was a dot plotter. Once each machine was built we created a plate that was attached to the top that would hold the pen/marker. using X,Y cordinates we were able to program the machine to move at first back and forth and then once the other machine was added perpendicular to the other machine we could then draw a square.</summary></entry><entry><title type="html">Output Devices</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/03/29/output-devices.html" rel="alternate" type="text/html" title="Output Devices" /><published>2017-03-29T10:25:21-04:00</published><updated>2017-03-29T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/03/29/output-devices</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/03/29/output-devices.html">&lt;p&gt;For Sarah and I’s output device, we used Eagle to design and trace a circuit, which connects to our Satshakit (Arduino Uno Clone) to flash a RGB LED (common anode) with the appropriate resistors/header pins:&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output1.jpg&quot; alt=&quot;output pic 1&quot; width=&quot;49%&quot; /&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output2.jpg&quot; alt=&quot;output pic 2&quot; width=&quot;49%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update8.jpg&quot; alt=&quot;output pic 3&quot; width=&quot;100%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output3.jpg&quot; alt=&quot;output pic 3&quot; width=&quot;100%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Below are the connections Sarah and I made, followed by the program we used to run the output device using Arduino IDE:&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output4.jpg&quot; alt=&quot;output pic 4&quot; width=&quot;90%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Coding Process&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I first started by defineing the pins to the appropriate LED color, making sure all variables are labeled correctly. Next I played around with the different analog signals (0-255) to see how the different color outputs just before I created my FOR loops. See full code at the bottom of this page.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output5.jpg&quot; alt=&quot;output pic 5&quot; width=&quot;90%&quot; /&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;center&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/AqW9UgaVeCE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/RGB.sch&quot;&gt;RGB.sch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/RGB.brd&quot;&gt;RGB.brd&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/RGB_LED_Program.ino&quot;&gt;RGB LED Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s output device, we used Eagle to design and trace a circuit, which connects to our Satshakit (Arduino Uno Clone) to flash a RGB LED (common anode) with the appropriate resistors/header pins:</summary></entry></feed>

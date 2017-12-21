@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Input Devices</title>
+  <meta name="description" content="For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, ...">
+
+  <link rel="stylesheet" href="/archives/2017/fablabiu1/students/418/assets/main.css">
+  <link rel="canonical" href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices.html">
+  <link rel="alternate" type="application/rss+xml" title="Brandon Prentice - Fab Academy" href="/archives/2017/fablabiu1/students/418/feed.xml">
+  
+  
+</head>
+
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+  <a class="site-title" href="/archives/2017/fablabiu1/students/418/">Brandon Prentice - Fab Academy</a>
+
+    <nav class="site-nav">
+      <span class="menu-icon">
+        <svg viewBox="0 0 18 15" width="18px" height="15px">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </span>
+
+      <div class="trigger">
+        
+          
+          <a class="page-link" href="/archives/2017/fablabiu1/students/418/about/">About</a>
+          
+        
+          
+          <a class="page-link" href="/archives/2017/fablabiu1/students/418/assignments/">Assignments</a>
+          
+        
+          
+          <a class="page-link" href="/archives/2017/fablabiu1/students/418/final-project/">Final Project</a>
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Input Devices</h1>
+    <p class="post-meta"><time datetime="2017-04-26T10:25:21-04:00" itemprop="datePublished">Apr 26, 2017</time></p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, which is a variable resistor that works as a voltage divider in order to send varying voltages to the Arduino serial monitor.  These varying voltages are read as temperature levels which you can change the range of voltages on.</p>
+
+<p><strong>Components Needed:</strong></p>
+
+<blockquote>
+  <p>Arduino Clone (Satshakit) Board</p>
+</blockquote>
+
+<blockquote>
+  <p>Breadboard</p>
+</blockquote>
+
+<blockquote>
+  <p>7 Male Pin Headers</p>
+</blockquote>
+
+<blockquote>
+  <p>X3 499Ω Resistors</p>
+</blockquote>
+
+<blockquote>
+  <p>X3 LEDs (Red, Orange, &amp; Blue)</p>
+</blockquote>
+
+<blockquote>
+  <p>Temperature Sensor (LM35)</p>
+</blockquote>
+
+<p><strong>Designing the Traces:</strong></p>
+
+<blockquote>
+  <p>HEADER PIN 1 - Pin one (the pin on the left) of the temperature sensor goes to 5v</p>
+</blockquote>
+
+<blockquote>
+  <p>HEADER PIN 2 - Pin two (the pin in the middle) of the temperature sensor goes to analog pin A2</p>
+</blockquote>
+
+<blockquote>
+  <p>HEADER PIN 3 - Pin three (the pin on the right) of the temperature sensor goes to ground</p>
+</blockquote>
+
+<blockquote>
+  <p>HEADER PIN 4 - Red LED through one of the resistors, and ground</p>
+</blockquote>
+
+<blockquote>
+  <p>HEADER PIN 5 - Orange LED though a resistor, and ground</p>
+</blockquote>
+
+<blockquote>
+  <p>HEADER PIN 6 - Blue LED through a resistor, and ground</p>
+</blockquote>
+
+<blockquote>
+  <p>HEADER PIN 7 - GROUND (For LEDs/Resistors)</p>
+</blockquote>
+
+<p><br /></p>
+
+<center>
+<img src="/archives/2017/fablabiu1/students/418/IMGs/12input1.jpg" alt="input pic 1" width="49%" />
+<img src="/archives/2017/fablabiu1/students/418/IMGs/12input2.jpg" alt="input pic 2" width="49%" />
+</center>
+
+<center>
+<img src="/archives/2017/fablabiu1/students/418/IMGs/12input3.jpg" alt="input pic 3" width="80%" />
+</center>
+
+<p><br /></p>
+
+<p><strong>Coding</strong></p>
+
+<p>The basic understanding when making the code was first assigning all of the individual arduino pins to the LEDS/Temp Sensor, and then having a series HIGHS/LOWS listed to light up the specific LED per range of temperatures, along with a quick message stating cold, fine, and hot.</p>
+
+<p>I was researching for good resources to start on a temperature-reading program. I found an excellent page to start me in the right direction when it came to making the SMD schematic along with the program itself, which I had to alter slightly. See source here: <a href="http://www.instructables.com/id/Arduino-LED-Temperature-Indicator/">Arduino LED Temperature Indicator</a></p>
+
+<p>The program is set so that a <strong>BLUE LED</strong> will turn on when temperature is below <strong>75 degrees</strong>, an <strong>ORANGE LED</strong> turn on when it’s <strong>73-80 degrees</strong>, and  a <strong>RED LED</strong> turn on when it’s above <strong>80 degrees</strong>. Below are the connections Sarah and I made, followed by the program we used to run the input device using Arduino IDE and it’s built in serial monitor:</p>
+
+<center>
+<img src="/archives/2017/fablabiu1/students/418/IMGs/12input4.jpg" alt="input pic 4" width="80%" />
+<img src="/archives/2017/fablabiu1/students/418/IMGs/12input5.jpg" alt="input pic 5" width="80%" />
+</center>
+
+<p><br /></p>
+
+<p><strong>Problems Encountered:</strong></p>
+
+<p>This was actually my second attempt on a Temp sensor circuit. The original one was using a SMD temperature sensor with 1 indicator light displaying with certain brightness. I decided to make it simplier with a more common (through-hole) Temp sensor that I can assign individual LEDs to for easier programming.</p>
+
+<h1 id="finished-product"><strong>Finished Product:</strong></h1>
+
+<p><br /></p>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHjKRyi0c6c" frameborder="0" allowfullscreen=""></iframe>
+</center>
+
+<p><br /></p>
+<h1 id="digital-files"><strong>Digital Files:</strong></h1>
+
+<p><a href="/archives/2017/fablabiu1/students/418/files/temperature_sensor.sch">Temperature Sensor.sch</a></p>
+
+<p><a href="/archives/2017/fablabiu1/students/418/files/temperature_sensor.brd">Temperature Sensor.brd</a></p>
+
+<p><a href="/archives/2017/fablabiu1/students/418/files/Temperature_Sensor_Program.ino">Temperature Sensor Code.ino</a></p>
+
+  </div>
+
+  
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading"><strong>Contact / Info</strong></h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            <a href="http://www.iu1.org/fablab">www.iu1.org/fablab</a>
+            </li>
+            
+            <li><a href="mailto:brandon.prentice@iu1.org">brandon.prentice@iu1.org</a></li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="http://git.fabacademy.org/u/BrandonPrentice"><span class="icon icon--gitlab"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 494 455" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,1173.3333 L1999.99995,1173.3333 L1999.99995,0 L0,0 L0,1173.3333 L0,1173.3333 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="gitlab_logo" sketch:type="MSLayerGroup" transform="translate(-359.000000, -360.000000)">
+            <g id="g10" transform="translate(999.999975, 587.666648) scale(1, -1) translate(-999.999975, -587.666648) translate(0.000000, 0.999996)">
+                <g id="g16">
+                    <g id="g18-Clipped">
+                        <mask id="mask-2" sketch:name="path22" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="path22"></g>
+                        <g id="g18" mask="url(#mask-2)">
+                            <g transform="translate(358.666658, 358.666658)">
+                                <g id="g44" transform="translate(0.532000, 0.774933)">
+                                    <path d="M491.999988,194.666662 L464.441322,279.481326 L409.82399,447.578655 C407.014656,456.226655 394.778657,456.226655 391.96799,447.578655 L337.349325,279.481326 L155.982663,279.481326 L101.362664,447.578655 C98.5533309,456.226655 86.3173312,456.226655 83.5066646,447.578655 L28.8893326,279.481326 L1.33199997,194.666662 C-1.18266664,186.930662 1.57199996,178.455996 8.1519998,173.674662 L246.665327,0.385333324 L485.179988,173.674662 C491.759988,178.455996 494.513321,186.930662 491.999988,194.666662" id="path46" fill="#FC6D26" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g id="g48" transform="translate(155.197863, 1.160267)">
+                                    <path d="M91.9999977,0 L91.9999977,0 L182.683995,279.095993 L1.31599997,279.095993 L91.9999977,0 L91.9999977,0 Z" id="path50" fill="#E24329" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g id="g52" transform="translate(247.197860, 1.160267)">
+                                    <g id="path54"></g>
+                                </g>
+                                <g id="g56" transform="translate(28.531199, 1.160800)">
+                                    <path d="M218.666661,0 L127.982663,279.09466 L0.890666644,279.09466 L218.666661,0 L218.666661,0 Z" id="path58" fill="#FC6D26" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g id="g60" transform="translate(247.197860, 1.160800)">
+                                    <g id="path62"></g>
+                                </g>
+                                <g id="g64" transform="translate(0.088533, 0.255867)">
+                                    <path d="M29.3333326,279.999993 L29.3333326,279.999993 L1.77466662,195.185328 C-0.738666648,187.449329 2.01466662,178.974662 8.59599979,174.194662 L247.109327,0.905333311 L29.3333326,279.999993 L29.3333326,279.999993 Z" id="path66" fill="#FCA326" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g id="g68" transform="translate(247.197860, 1.160267)">
+                                    <g id="path70"></g>
+                                </g>
+                                <g id="g72" transform="translate(29.421866, 280.255593)">
+                                    <path d="M0,0 L127.091997,0 L72.4733315,168.097329 C69.6626649,176.746662 57.4266652,176.746662 54.617332,168.097329 L0,0 L0,0 Z" id="path74" fill="#E24329" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g id="g76" transform="translate(247.197860, 1.160800)">
+                                    <path d="M0,0 L90.6839977,279.09466 L217.775995,279.09466 L0,0 L0,0 Z" id="path78" fill="#FC6D26" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g id="g80" transform="translate(246.307061, 0.255867)">
+                                    <path d="M218.666661,279.999993 L218.666661,279.999993 L246.225327,195.185328 C248.73866,187.449329 245.985327,178.974662 239.403994,174.194662 L0.890666644,0.905333311 L218.666661,279.999993 L218.666661,279.999993 Z" id="path82" fill="#FCA326" sketch:type="MSShapeGroup"></path>
+                                </g>
+                                <g id="g84" transform="translate(336.973725, 280.255593)">
+                                    <path d="M127.999997,0 L0.907999977,0 L55.5266653,168.097329 C58.3373319,176.746662 70.5733316,176.746662 73.3826648,168.097329 L127.999997,0 L127.999997,0 Z" id="path86" fill="#E24329" sketch:type="MSShapeGroup"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg></span><span class="username">BrandonPrentice</span></a>
+
+          </li>
+          
+
+          
+          <li>
+            <a href="https://twitter.com/IU1FabLab"><span class="icon icon--twitter"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M15.969,3.058c-0.586,0.26-1.217,0.436-1.878,0.515c0.675-0.405,1.194-1.045,1.438-1.809c-0.632,0.375-1.332,0.647-2.076,0.793c-0.596-0.636-1.446-1.033-2.387-1.033c-1.806,0-3.27,1.464-3.27,3.27 c0,0.256,0.029,0.506,0.085,0.745C5.163,5.404,2.753,4.102,1.14,2.124C0.859,2.607,0.698,3.168,0.698,3.767 c0,1.134,0.577,2.135,1.455,2.722C1.616,6.472,1.112,6.325,0.671,6.08c0,0.014,0,0.027,0,0.041c0,1.584,1.127,2.906,2.623,3.206 C3.02,9.402,2.731,9.442,2.433,9.442c-0.211,0-0.416-0.021-0.615-0.059c0.416,1.299,1.624,2.245,3.055,2.271 c-1.119,0.877-2.529,1.4-4.061,1.4c-0.264,0-0.524-0.015-0.78-0.046c1.447,0.928,3.166,1.469,5.013,1.469 c6.015,0,9.304-4.983,9.304-9.304c0-0.142-0.003-0.283-0.009-0.423C14.976,4.29,15.531,3.714,15.969,3.058z"/></svg>
+</span><span class="username">IU1FabLab</span></a>
+
+          </li>
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>This is the official archive for Brandon Prentice&#39;s Fab Academy  assignments. The Fab Academy was developed to teach hands-on skills  in fab labs and began as an outreach project from MIT’s Center for  Bits and Atoms.
+</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
+
+
+  </body>
+
+</html>
