@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/archives/2017/fablabiu1/students/418/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/" rel="alternate" type="text/html" /><updated>2017-11-08T14:28:24-05:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418//</id><title type="html">Brandon Prentice - Fab Academy</title><subtitle>This is the official archive for Brandon Prentice's Fab Academy  assignments. The Fab Academy was developed to teach hands-on skills  in fab labs and began as an outreach project from MIT’s Center for  Bits and Atoms.
-</subtitle><entry><title type="html">Project Development</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/06/07/project-development.html" rel="alternate" type="text/html" title="Project Development" /><published>2017-06-07T10:25:21-04:00</published><updated>2017-06-07T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/06/07/project-development</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/06/07/project-development.html">&lt;h1 id=&quot;final-project-progress-so-far&quot;&gt;&lt;strong&gt;Final Project (Progress So Far):&lt;/strong&gt;&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-12-21T08:41:16-05:00</updated><id>http://localhost:4000//</id><title type="html">Brandon Prentice - Fab Academy</title><subtitle>This is the official archive for Brandon Prentice's Fab Academy  assignments. The Fab Academy was developed to teach hands-on skills  in fab labs and began as an outreach project from MIT’s Center for  Bits and Atoms.
+</subtitle><entry><title type="html">Project Development</title><link href="http://localhost:4000/jekyll/update/2017/06/07/project-development.html" rel="alternate" type="text/html" title="Project Development" /><published>2017-06-07T10:25:21-04:00</published><updated>2017-06-07T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/06/07/project-development</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/06/07/project-development.html">&lt;h1 id=&quot;final-project-progress-so-far&quot;&gt;&lt;strong&gt;Final Project (Progress So Far):&lt;/strong&gt;&lt;/h1&gt;
 
 &lt;p style=&quot;color:red; font-size: 200%; text-align: center;&quot;&gt;&lt;strong&gt;January - March, 2017&lt;/strong&gt;&lt;/p&gt;
 
@@ -8,8 +8,8 @@
 &lt;p&gt;I started with a simple cube shape where I subtracted away all of the hollow areas that you see in the pictures below. Once I made my guesses on where to put the openings for the buttons &amp;amp; 7-segment display, I “pushed” the 2D shapes inward to subtrate the material away. My last step was to add the 3D text on top, extruding it in such a way that I can switch colors of filiment during prints to bring out more contrast.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update10.jpg&quot; alt=&quot;update10&quot; width=&quot;40%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject3.jpg&quot; alt=&quot;sketchup screenshot1&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/IMGs/update10.jpg&quot; alt=&quot;update10&quot; width=&quot;40%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject3.jpg&quot; alt=&quot;sketchup screenshot1&quot; width=&quot;50%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -17,8 +17,8 @@
 &lt;p&gt;&lt;strong&gt;Designing 2D Vectors&lt;/strong&gt; - I started by utilizing &lt;a href=&quot;http://makercase.com&quot;&gt;www.makercase.com&lt;/a&gt; which is a simple sketch generator to design a basic box shape with a percise finger joint layout. I chose this program because of it all being parametric, and good for projects with joinery. Once I plugged in the few parameter questions, it generated a .SVG file which can then be pulled into other vectoring software. I decided to experiment with Adobe Illustrator by importing, designing, and manipulating the file that will somday be either lasercut or CNC milled.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update11.jpg&quot; alt=&quot;update11&quot; width=&quot;32%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject2.jpg&quot; alt=&quot;ai screenshot1&quot; width=&quot;65%&quot; /&gt;
+&lt;img src=&quot;/IMGs/update11.jpg&quot; alt=&quot;update11&quot; width=&quot;32%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject2.jpg&quot; alt=&quot;ai screenshot1&quot; width=&quot;65%&quot; /&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -31,7 +31,7 @@
 &lt;p&gt;I starting this process by studying the schematic/parts list for the orginal circuit I bought from China. Once I understood all of the parts, I went to our class archives to pull the Barduino board design to start from.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject4.jpg&quot; alt=&quot;china schematic&quot; width=&quot;98%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject4.jpg&quot; alt=&quot;china schematic&quot; width=&quot;98%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -43,23 +43,23 @@
 &lt;p&gt;Using Eagle, I drafted the first schematic from the barduino by adding the buzzer, USB power supply, 7 segment display, and the buttons. Once completed, I traced everything appropriately, having the 7 segment display hovering over the entire board from extra legnth prongs that will still be soldered onto with surface mounts.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject6.jpg&quot; alt=&quot;clock schematic 1&quot; width=&quot;98%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject6.jpg&quot; alt=&quot;clock schematic 1&quot; width=&quot;98%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject7.jpg&quot; alt=&quot;clock tracing 1&quot; width=&quot;98%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject7.jpg&quot; alt=&quot;clock tracing 1&quot; width=&quot;98%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject8.jpg&quot; alt=&quot;milling clock circuit&quot; width=&quot;48%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject9.jpg&quot; alt=&quot;soldering clock circuit&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject8.jpg&quot; alt=&quot;milling clock circuit&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject9.jpg&quot; alt=&quot;soldering clock circuit&quot; width=&quot;48%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject10.jpg&quot; alt=&quot;soldered board&quot; width=&quot;48%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/finalproject11.jpg&quot; alt=&quot;plugged in clock&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject10.jpg&quot; alt=&quot;soldered board&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/IMGs/finalproject11.jpg&quot; alt=&quot;plugged in clock&quot; width=&quot;48%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -76,13 +76,13 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/17invention1.jpg&quot; alt=&quot;invention pic 1&quot; width=&quot;100%&quot; /&gt;
+&lt;img src=&quot;/IMGs/17invention1.jpg&quot; alt=&quot;invention pic 1&quot; width=&quot;100%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;video src=&quot;/archives/2017/fablabiu1/students/418/video/finalvideo.mp4&quot; width=&quot;100%&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+&lt;video src=&quot;/video/finalvideo.mp4&quot; width=&quot;100%&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -97,7 +97,7 @@
 
 &lt;p&gt;My next task will be to add the software control to mimic the original clock’s functionality. The left button cycles through setting the hour and minute, turning the hourly chime on or off, setting the hour and minute of the alarm, and turning that alarm on or off. When the clock is in normal operation, pressing the right button switches between HH:MM display and MM:SS for keeping accurate track of time.&lt;/p&gt;
 
-&lt;p&gt;Once the programming of the Chip has been completed, my last task is to incorporate the 2D/3D case designs into the new PCB while also making a vinyl cut label for the exterior.&lt;/p&gt;</content><summary type="html">Final Project (Progress So Far):</summary></entry><entry><title type="html">Invention, Intellectual Property, and Income</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income.html" rel="alternate" type="text/html" title="Invention, Intellectual Property, and Income" /><published>2017-05-31T10:25:21-04:00</published><updated>2017-05-31T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income.html">&lt;h1 id=&quot;high-school-lesson-plan-purpose&quot;&gt;&lt;strong&gt;High School Lesson Plan (Purpose)&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;Once the programming of the Chip has been completed, my last task is to incorporate the 2D/3D case designs into the new PCB while also making a vinyl cut label for the exterior.&lt;/p&gt;</content><summary type="html">Final Project (Progress So Far):</summary></entry><entry><title type="html">Invention, Intellectual Property, and Income</title><link href="http://localhost:4000/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income.html" rel="alternate" type="text/html" title="Invention, Intellectual Property, and Income" /><published>2017-05-31T10:25:21-04:00</published><updated>2017-05-31T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/31/invention,-intellectual-property,-and-income.html">&lt;h1 id=&quot;high-school-lesson-plan-purpose&quot;&gt;&lt;strong&gt;High School Lesson Plan (Purpose)&lt;/strong&gt;&lt;/h1&gt;
 
 &lt;p&gt;Students will learn to construct a digital clock circuit while designing a casing for it. This project gives students an understanding of basic electronics/circuitry as well as different fabrication features to build an exterior for it. Option to take this project an extra step further where students can learn from start to finish how to design the circuit board itself, have it cut from a CNC milling machine, and then programming a code into it.&lt;/p&gt;
 
@@ -175,16 +175,16 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/17invention1.jpg&quot; alt=&quot;invention pic 1&quot; width=&quot;100%&quot; /&gt;
+&lt;img src=&quot;/IMGs/17invention1.jpg&quot; alt=&quot;invention pic 1&quot; width=&quot;100%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;video src=&quot;/archives/2017/fablabiu1/students/418/video/finalvideo.mp4&quot; width=&quot;100%&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
-&lt;/center&gt;</content><summary type="html">High School Lesson Plan (Purpose)</summary></entry><entry><title type="html">Applications and Implications</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/24/applications-and-implications.html" rel="alternate" type="text/html" title="Applications and Implications" /><published>2017-05-24T10:25:21-04:00</published><updated>2017-05-24T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/24/applications-and-implications</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/24/applications-and-implications.html">&lt;h2 id=&quot;final-project-proposal&quot;&gt;&lt;strong&gt;Final Project Proposal:&lt;/strong&gt;&lt;/h2&gt;
+&lt;video src=&quot;/video/finalvideo.mp4&quot; width=&quot;100%&quot; controls=&quot;&quot;&gt;&lt;/video&gt;
+&lt;/center&gt;</content><summary type="html">High School Lesson Plan (Purpose)</summary></entry><entry><title type="html">Applications and Implications</title><link href="http://localhost:4000/jekyll/update/2017/05/24/applications-and-implications.html" rel="alternate" type="text/html" title="Applications and Implications" /><published>2017-05-24T10:25:21-04:00</published><updated>2017-05-24T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/05/24/applications-and-implications</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/24/applications-and-implications.html">&lt;h2 id=&quot;final-project-proposal&quot;&gt;&lt;strong&gt;Final Project Proposal:&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;center&gt;&lt;img class=&quot;bordered-image&quot; src=&quot;/archives/2017/fablabiu1/students/418/IMGs/16implication1.jpg&quot; alt=&quot;final project complete&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;img class=&quot;bordered-image&quot; src=&quot;/IMGs/16implication1.jpg&quot; alt=&quot;final project complete&quot; width=&quot;50%&quot; /&gt;&lt;/center&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 	.bordered-image {
@@ -319,7 +319,7 @@
   - Does the circuit board fit securely in the casing without
   movement?
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;</content><summary type="html">Final Project Proposal:</summary></entry><entry><title type="html">Interface and Application Programming</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/17/interface-and-application-programming.html" rel="alternate" type="text/html" title="Interface and Application Programming" /><published>2017-05-17T10:25:21-04:00</published><updated>2017-05-17T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/17/interface-and-application-programming</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/17/interface-and-application-programming.html">&lt;p&gt;I started this assignment by researching and trying out the software “Processing” &lt;a href=&quot;http://www.processing.org&quot;&gt;(processing.org)&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;</content><summary type="html">Final Project Proposal:</summary></entry><entry><title type="html">Interface and Application Programming</title><link href="http://localhost:4000/jekyll/update/2017/05/17/interface-and-application-programming.html" rel="alternate" type="text/html" title="Interface and Application Programming" /><published>2017-05-17T10:25:21-04:00</published><updated>2017-05-17T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/05/17/interface-and-application-programming</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/17/interface-and-application-programming.html">&lt;p&gt;I started this assignment by researching and trying out the software “Processing” &lt;a href=&quot;http://www.processing.org&quot;&gt;(processing.org)&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I then looked into how to properly hook up my Satshakit (Arduino Clone) to a servo motor at which I could program using the software application i create. I looked into an arduino webpage on syncing the arduino and processing IDEs so I was able to use the arduino clone in my application. Instructions link here: &lt;a href=&quot;https://playground.arduino.cc/Interfacing/Processing&quot;&gt;Arduino and Processing&lt;/a&gt;&lt;/p&gt;
 
@@ -521,7 +521,7 @@
 &lt;p&gt;Next was to give a purpose to the servo motor. I decided to design and lasercut a head shape with multiple gears turning all made from 3mm plywood. I customly attached the servo to one gear for it to turn two more gears in sequence.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/15interface1.jpg&quot; alt=&quot;interface pic 1&quot; width=&quot;45%&quot; /&gt;
+&lt;img src=&quot;/IMGs/15interface1.jpg&quot; alt=&quot;interface pic 1&quot; width=&quot;45%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -529,11 +529,11 @@
 &lt;p&gt;Below shows how I wired my Satshakit to the PC and servo motor. You will notice that I used a breadboard to better distribute power from my FDTI cable to both the arduino and the servo motor.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/15interface2.jpg&quot; alt=&quot;interface pic 2&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;/IMGs/15interface2.jpg&quot; alt=&quot;interface pic 2&quot; width=&quot;90%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/15interface3.jpg&quot; alt=&quot;interface pic 3&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;/IMGs/15interface3.jpg&quot; alt=&quot;interface pic 3&quot; width=&quot;90%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -563,14 +563,14 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Servo_Program.zip&quot;&gt;Brandon Servo Code.zip&lt;/a&gt;&lt;/p&gt;</content><summary type="html">I started this assignment by researching and trying out the software “Processing” (processing.org).</summary></entry><entry><title type="html">Networking and Communications</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/10/networking-and-communications.html" rel="alternate" type="text/html" title="Networking and Communications" /><published>2017-05-10T10:25:21-04:00</published><updated>2017-05-10T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/10/networking-and-communications</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/10/networking-and-communications.html">&lt;p&gt;For Sarah and I’s group networking and communications assignment, we used both of our Arduino Uno Clones (&lt;a href=&quot;http://fabacademy.org/archives/2015/doc/projects/satshakit/satshakit.html&quot;&gt;Satshakit&lt;/a&gt;) to act as a master write to slave read connection through serial data line (SDA) and serial clock line (SCL) of both micro-processors. Here are the I/O’s board trace and completed circuit of the Satshakit Clone:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/Servo_Program.zip&quot;&gt;Brandon Servo Code.zip&lt;/a&gt;&lt;/p&gt;</content><summary type="html">I started this assignment by researching and trying out the software “Processing” (processing.org).</summary></entry><entry><title type="html">Networking and Communications</title><link href="http://localhost:4000/jekyll/update/2017/05/10/networking-and-communications.html" rel="alternate" type="text/html" title="Networking and Communications" /><published>2017-05-10T10:25:21-04:00</published><updated>2017-05-10T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/05/10/networking-and-communications</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/10/networking-and-communications.html">&lt;p&gt;For Sarah and I’s group networking and communications assignment, we used both of our Arduino Uno Clones (&lt;a href=&quot;http://fabacademy.org/archives/2015/doc/projects/satshakit/satshakit.html&quot;&gt;Satshakit&lt;/a&gt;) to act as a master write to slave read connection through serial data line (SDA) and serial clock line (SCL) of both micro-processors. Here are the I/O’s board trace and completed circuit of the Satshakit Clone:&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network1.jpg&quot; alt=&quot;satshakit trace&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/IMGs/14network1.jpg&quot; alt=&quot;satshakit trace&quot; width=&quot;80%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network2.jpg&quot; alt=&quot;satshakit completed&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/IMGs/14network2.jpg&quot; alt=&quot;satshakit completed&quot; width=&quot;80%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -578,7 +578,7 @@
 &lt;p&gt;The purpose for this program was to demonstrate a network communication as the master sends a signal to the slave, and the slave interprets the signal and performs an operation which in this case, we decided to use device that was part of an earlier assignment. The original assignment was to read temperature but we only used the different colored LEDs for multiple outputs. See “Input Devices” assignment here: &lt;a href=&quot;http://archive.fabacademy.org/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices.html&quot;&gt;Input Devices&lt;/a&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input3.jpg&quot; alt=&quot;input pic 3&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/IMGs/12input3.jpg&quot; alt=&quot;input pic 3&quot; width=&quot;80%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -588,7 +588,7 @@
 &lt;p&gt;Since all of the pinheaders/connectors we had are male, and that our lab had little-to-no female connectors, we needed to use an excess amount of wires, a breadboard, and a lot of our imagination to properly connect it all together, shown below:&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network3.jpg&quot; alt=&quot;master, slave, and output connections&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/IMGs/14network3.jpg&quot; alt=&quot;master, slave, and output connections&quot; width=&quot;80%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -636,7 +636,7 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/14network4.jpg&quot; alt=&quot;networking program&quot; width=&quot;100%&quot; /&gt;
+&lt;img src=&quot;/IMGs/14network4.jpg&quot; alt=&quot;networking program&quot; width=&quot;100%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -880,11 +880,11 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/brandon_moded_satshakitpcb.brd&quot;&gt;Brandon’s Moded Satshakit.brd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/brandon_moded_satshakitpcb.brd&quot;&gt;Brandon’s Moded Satshakit.brd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Arduino_Master_Program.ino&quot;&gt;Arduino Master Code.ino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/Arduino_Master_Program.ino&quot;&gt;Arduino Master Code.ino&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Arduino_Slave_Program.ino&quot;&gt;Arduino Slave Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s group networking and communications assignment, we used both of our Arduino Uno Clones (Satshakit) to act as a master write to slave read connection through serial data line (SDA) and serial clock line (SCL) of both micro-processors. Here are the I/O’s board trace and completed circuit of the Satshakit Clone:</summary></entry><entry><title type="html">Composites</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/03/composites.html" rel="alternate" type="text/html" title="Composites" /><published>2017-05-03T10:25:21-04:00</published><updated>2017-05-03T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/03/composites</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/05/03/composites.html">&lt;p&gt;This was my process for toolpathing a 3D object, CNC milling it, and creating an epoxy mask over it to vacuum seal and form a composite.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/Arduino_Slave_Program.ino&quot;&gt;Arduino Slave Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s group networking and communications assignment, we used both of our Arduino Uno Clones (Satshakit) to act as a master write to slave read connection through serial data line (SDA) and serial clock line (SCL) of both micro-processors. Here are the I/O’s board trace and completed circuit of the Satshakit Clone:</summary></entry><entry><title type="html">Composites</title><link href="http://localhost:4000/jekyll/update/2017/05/03/composites.html" rel="alternate" type="text/html" title="Composites" /><published>2017-05-03T10:25:21-04:00</published><updated>2017-05-03T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/05/03/composites</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/03/composites.html">&lt;p&gt;This was my process for toolpathing a 3D object, CNC milling it, and creating an epoxy mask over it to vacuum seal and form a composite.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3D Object:&lt;/strong&gt; Boat&lt;/p&gt;
 
@@ -895,20 +895,20 @@
 &lt;p&gt;I started by importing a .STL file of a boat shape into our Aspire software. I then created the appropriate toolpaths with one roughing path (0.25” end mill bit), and one finishing path (0.125” ballnose bit). I ended up using a scrap piece of packaging styrofoam that was laying around to be my material (5”x11”x2”)&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites1.jpg&quot; alt=&quot;composite pic 1&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites1.jpg&quot; alt=&quot;composite pic 1&quot; height=&quot;400&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites2.jpg&quot; alt=&quot;composite pic 2&quot; height=&quot;200&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites3.jpg&quot; alt=&quot;composite pic 3&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites2.jpg&quot; alt=&quot;composite pic 2&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites3.jpg&quot; alt=&quot;composite pic 3&quot; height=&quot;200&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites4.jpg&quot; alt=&quot;composite pic 4&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites4.jpg&quot; alt=&quot;composite pic 4&quot; height=&quot;400&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -931,7 +931,7 @@
 &lt;p&gt;&lt;a href=&quot;https://entropyresins.com/wp-content/uploads/2014/03/ONE-TDS.pdf&quot;&gt;https://entropyresins.com/wp-content/uploads/2014/03/ONE-TDS.pdf&lt;/a&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites5.jpg&quot; alt=&quot;composite pic 5&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites5.jpg&quot; alt=&quot;composite pic 5&quot; height=&quot;400&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -939,7 +939,7 @@
 &lt;p&gt;Afterwards, I took the pre-cut pieces of fabric and then cut darts into them to better fit around the mold.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites6.jpg&quot; alt=&quot;composite pic 6&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites6.jpg&quot; alt=&quot;composite pic 6&quot; height=&quot;400&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -950,14 +950,14 @@
 
 &lt;p&gt;&lt;em&gt;Always wear safety glasses and gloves&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update4.jpg&quot; alt=&quot;safety&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/IMGs/update4.jpg&quot; alt=&quot;safety&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 My last step was then creating the composite itself. I thoroughly mixed parts A &amp;amp; B together at a 2/1 ratio and brushed the solution onto each layer of cloth. I made sure to also place a layer of release film on the top as well as on the mold itself. Finally, I placed the entire composite inside of a vacuum bag and used our powerful dust collection system to suck the air out. I used a combination of a shop vac extention and the 3D printed hose adapter to securly fit the hose on the bag. Once it was done vacuuming, I let it sit for 24 hours before I trimmed the edges.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites7.jpg&quot; alt=&quot;composite pic 7&quot; height=&quot;400&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites8.jpg&quot; alt=&quot;composite pic 8&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites7.jpg&quot; alt=&quot;composite pic 7&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites8.jpg&quot; alt=&quot;composite pic 8&quot; height=&quot;400&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -965,13 +965,13 @@ My last step was then creating the composite itself. I thoroughly mixed parts A 
 &lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/13composites9.jpg&quot; alt=&quot;composite pic 9&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/13composites9.jpg&quot; alt=&quot;composite pic 9&quot; height=&quot;400&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/boat_composite_assignment.crv3d&quot;&gt;Boat Composite Model.crv3d&lt;/a&gt;&lt;/p&gt;</content><summary type="html">This was my process for toolpathing a 3D object, CNC milling it, and creating an epoxy mask over it to vacuum seal and form a composite.</summary></entry><entry><title type="html">Input Devices</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices.html" rel="alternate" type="text/html" title="Input Devices" /><published>2017-04-26T10:25:21-04:00</published><updated>2017-04-26T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/26/input-devices.html">&lt;p&gt;For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, which is a variable resistor that works as a voltage divider in order to send varying voltages to the Arduino serial monitor.  These varying voltages are read as temperature levels which you can change the range of voltages on.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/boat_composite_assignment.crv3d&quot;&gt;Boat Composite Model.crv3d&lt;/a&gt;&lt;/p&gt;</content><summary type="html">This was my process for toolpathing a 3D object, CNC milling it, and creating an epoxy mask over it to vacuum seal and form a composite.</summary></entry><entry><title type="html">Input Devices</title><link href="http://localhost:4000/jekyll/update/2017/04/26/input-devices.html" rel="alternate" type="text/html" title="Input Devices" /><published>2017-04-26T10:25:21-04:00</published><updated>2017-04-26T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/04/26/input-devices</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/04/26/input-devices.html">&lt;p&gt;For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, which is a variable resistor that works as a voltage divider in order to send varying voltages to the Arduino serial monitor.  These varying voltages are read as temperature levels which you can change the range of voltages on.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Components Needed:&lt;/strong&gt;&lt;/p&gt;
 
@@ -1032,12 +1032,12 @@ My last step was then creating the composite itself. I thoroughly mixed parts A 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input1.jpg&quot; alt=&quot;input pic 1&quot; width=&quot;49%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input2.jpg&quot; alt=&quot;input pic 2&quot; width=&quot;49%&quot; /&gt;
+&lt;img src=&quot;/IMGs/12input1.jpg&quot; alt=&quot;input pic 1&quot; width=&quot;49%&quot; /&gt;
+&lt;img src=&quot;/IMGs/12input2.jpg&quot; alt=&quot;input pic 2&quot; width=&quot;49%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input3.jpg&quot; alt=&quot;input pic 3&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/IMGs/12input3.jpg&quot; alt=&quot;input pic 3&quot; width=&quot;80%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1051,8 +1051,8 @@ My last step was then creating the composite itself. I thoroughly mixed parts A 
 &lt;p&gt;The program is set so that a &lt;strong&gt;BLUE LED&lt;/strong&gt; will turn on when temperature is below &lt;strong&gt;75 degrees&lt;/strong&gt;, an &lt;strong&gt;ORANGE LED&lt;/strong&gt; turn on when it’s &lt;strong&gt;73-80 degrees&lt;/strong&gt;, and  a &lt;strong&gt;RED LED&lt;/strong&gt; turn on when it’s above &lt;strong&gt;80 degrees&lt;/strong&gt;. Below are the connections Sarah and I made, followed by the program we used to run the input device using Arduino IDE and it’s built in serial monitor:&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input4.jpg&quot; alt=&quot;input pic 4&quot; width=&quot;80%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/12input5.jpg&quot; alt=&quot;input pic 5&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/IMGs/12input4.jpg&quot; alt=&quot;input pic 4&quot; width=&quot;80%&quot; /&gt;
+&lt;img src=&quot;/IMGs/12input5.jpg&quot; alt=&quot;input pic 5&quot; width=&quot;80%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1072,11 +1072,11 @@ My last step was then creating the composite itself. I thoroughly mixed parts A 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/temperature_sensor.sch&quot;&gt;Temperature Sensor.sch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/temperature_sensor.sch&quot;&gt;Temperature Sensor.sch&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/temperature_sensor.brd&quot;&gt;Temperature Sensor.brd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/temperature_sensor.brd&quot;&gt;Temperature Sensor.brd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Temperature_Sensor_Program.ino&quot;&gt;Temperature Sensor Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, which is a variable resistor that works as a voltage divider in order to send varying voltages to the Arduino serial monitor.  These varying voltages are read as temperature levels which you can change the range of voltages on.</summary></entry><entry><title type="html">Molding and Casting</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/15/molding-and-casting.html" rel="alternate" type="text/html" title="Molding and Casting" /><published>2017-04-15T10:25:21-04:00</published><updated>2017-04-15T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/15/molding-and-casting</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/15/molding-and-casting.html">&lt;p&gt;This was my process for toolpathing a 3D object, CNC milling it, casting with silicon rubber, and lastly making the mold from a metal alloy.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/Temperature_Sensor_Program.ino&quot;&gt;Temperature Sensor Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s input device, we used Eagle to design and trace a circuit that connects to our Satshakit (Arduino Uno Clone) to read a temperature sensor, which is a variable resistor that works as a voltage divider in order to send varying voltages to the Arduino serial monitor.  These varying voltages are read as temperature levels which you can change the range of voltages on.</summary></entry><entry><title type="html">Molding and Casting</title><link href="http://localhost:4000/jekyll/update/2017/04/15/molding-and-casting.html" rel="alternate" type="text/html" title="Molding and Casting" /><published>2017-04-15T10:25:21-04:00</published><updated>2017-04-15T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/04/15/molding-and-casting</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/04/15/molding-and-casting.html">&lt;p&gt;This was my process for toolpathing a 3D object, CNC milling it, casting with silicon rubber, and lastly making the mold from a metal alloy.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3D Object:&lt;/strong&gt; Albert Einstein Bust&lt;/p&gt;
 
@@ -1087,8 +1087,8 @@ My last step was then creating the composite itself. I thoroughly mixed parts A 
 &lt;p&gt;I started by searching the web on &lt;a href=&quot;http://thingiverse.com&quot;&gt;Thingiverse&lt;/a&gt; to search for a detailed bust. Once I pulled the appropriate .STL file, I imported it to V-carve Pro, where I manipulated it to fit inside of a rectangle shape I designed onto a 2”x6”x24” substrate (wood piece). I did have to flatten the bust quite a bit in order to properly cut into only a 1.5” piece of lumber. The finished designed was made into three toolpaths: 3D roughing with 0.25” ballnose bit, 3D finishing with 0.25” ballnose bit, and 3D finishing with 0.125” ballnose bit.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold1.jpg&quot; alt=&quot;mold pic 1&quot; height=&quot;350&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold2.jpg&quot; alt=&quot;mold pic 2&quot; height=&quot;350&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold1.jpg&quot; alt=&quot;mold pic 1&quot; height=&quot;350&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold2.jpg&quot; alt=&quot;mold pic 2&quot; height=&quot;350&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1096,19 +1096,19 @@ My last step was then creating the composite itself. I thoroughly mixed parts A 
 &lt;p&gt;My next step was then creating the castof the 3D bust. Because I was melting metal for the mold, I used a special high temperature silicon rubber, called Mold Max 60, that can withstand temperatures up to 560 degrees Fahrenheit. I spray mold release onto the wood design and then started stiring part A&amp;amp;B of the silicon together.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold3.jpg&quot; alt=&quot;mold pic 3&quot; height=&quot;200&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold4.jpg&quot; alt=&quot;mold pic 4&quot; height=&quot;200&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold5.jpg&quot; alt=&quot;mold pic 5&quot; height=&quot;200&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold6.jpg&quot; alt=&quot;mold pic 6&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold3.jpg&quot; alt=&quot;mold pic 3&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold4.jpg&quot; alt=&quot;mold pic 4&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold5.jpg&quot; alt=&quot;mold pic 5&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold6.jpg&quot; alt=&quot;mold pic 6&quot; height=&quot;200&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;
 The wait time for the silicon rubber to dry was 24 hours. On that next day, I prepared everything needed for the mold. The metal is an alloy called Roto 281F/138C Low Melt Bismuth Based Alloy, which is made of 58% bismuth and 42% tin. This metal has a melting temperature of about 300 Degree Fahrenheit. Since the metal is very soft, I cut it in half with our bansaw to fit in our crucible.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold7.jpg&quot; alt=&quot;mold pic 7&quot; height=&quot;400&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold8.jpg&quot; alt=&quot;mold pic 8&quot; height=&quot;200&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold9.jpg&quot; alt=&quot;mold pic 9&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold7.jpg&quot; alt=&quot;mold pic 7&quot; height=&quot;400&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold8.jpg&quot; alt=&quot;mold pic 8&quot; height=&quot;200&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold9.jpg&quot; alt=&quot;mold pic 9&quot; height=&quot;200&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1116,7 +1116,7 @@ The wait time for the silicon rubber to dry was 24 hours. On that next day, I pr
 &lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/11mold10.jpg&quot; alt=&quot;mold pic 10&quot; /&gt;
+&lt;img src=&quot;/IMGs/11mold10.jpg&quot; alt=&quot;mold pic 10&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;
@@ -1125,9 +1125,9 @@ The wait time for the silicon rubber to dry was 24 hours. On that next day, I pr
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/Albert.crv&quot;&gt;Albert.crv&lt;/a&gt;&lt;/p&gt;</content><summary type="html">This was my process for toolpathing a 3D object, CNC milling it, casting with silicon rubber, and lastly making the mold from a metal alloy.</summary></entry><entry><title type="html">Machine Design</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/05/machine-design.html" rel="alternate" type="text/html" title="Machine Design" /><published>2017-04-05T10:25:21-04:00</published><updated>2017-04-05T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/05/machine-design</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/04/05/machine-design.html">&lt;p&gt;Our final machine was a dot plotter. Once each machine was built we created a plate that was attached to the top that would hold the pen/marker. using X,Y cordinates we were able to program the machine to move at first back and forth and then once the other machine was added perpendicular to the other machine we could then draw a square.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/Albert.crv&quot;&gt;Albert.crv&lt;/a&gt;&lt;/p&gt;</content><summary type="html">This was my process for toolpathing a 3D object, CNC milling it, casting with silicon rubber, and lastly making the mold from a metal alloy.</summary></entry><entry><title type="html">Machine Design</title><link href="http://localhost:4000/jekyll/update/2017/04/05/machine-design.html" rel="alternate" type="text/html" title="Machine Design" /><published>2017-04-05T10:25:21-04:00</published><updated>2017-04-05T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/04/05/machine-design</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/04/05/machine-design.html">&lt;p&gt;Our final machine was a dot plotter. Once each machine was built we created a plate that was attached to the top that would hold the pen/marker. using X,Y cordinates we were able to program the machine to move at first back and forth and then once the other machine was added perpendicular to the other machine we could then draw a square.&lt;/p&gt;
 
-&lt;p&gt;To load all of the firmware and protocols to the terminal, we followed the step-by-step instructions (&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/modular_mtm_instructions.docx&quot;&gt;Modular MTM Instructions&lt;/a&gt;) to give us direct communications between us and the different node boards running each axis’.&lt;/p&gt;
+&lt;p&gt;To load all of the firmware and protocols to the terminal, we followed the step-by-step instructions (&lt;a href=&quot;/files/modular_mtm_instructions.docx&quot;&gt;Modular MTM Instructions&lt;/a&gt;) to give us direct communications between us and the different node boards running each axis’.&lt;/p&gt;
 
 &lt;h1 id=&quot;finished-product&quot;&gt;&lt;strong&gt;Finished Product:&lt;/strong&gt;&lt;/h1&gt;
 
@@ -1140,39 +1140,39 @@ The wait time for the silicon rubber to dry was 24 hours. On that next day, I pr
 &lt;p&gt;The way we moved it in the code was typing &lt;strong&gt;“moves = [[1,1],[1,50],[50,50],[50,1],[1,1]]”&lt;/strong&gt; to move the sharpie to 4 equal corners while returning to it’s home origin. To improve on this machine design we would have liked to construct the body of the machine with a more sturdy material such as plywood, etc. Furture plans would include mounting it to a canvas to create an art machine. All in all it was a great project to explore how machines make machines. I was thrilled when the machine actually worked and was able to draw the line. For us, this was a successful week!&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/10machine1.jpg&quot; alt=&quot;machine pic 1&quot; width=&quot;98%&quot; /&gt;
+&lt;img src=&quot;/IMGs/10machine1.jpg&quot; alt=&quot;machine pic 1&quot; width=&quot;98%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/10machine2.jpg&quot; alt=&quot;machine pic 2&quot; width=&quot;48%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/10machine3.jpg&quot; alt=&quot;machine pic 3&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/IMGs/10machine2.jpg&quot; alt=&quot;machine pic 2&quot; width=&quot;48%&quot; /&gt;
+&lt;img src=&quot;/IMGs/10machine3.jpg&quot; alt=&quot;machine pic 3&quot; width=&quot;48%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update24.jpg&quot; alt=&quot;machine pic 2&quot; width=&quot;98%&quot; /&gt;
+&lt;img src=&quot;/IMGs/update24.jpg&quot; alt=&quot;machine pic 2&quot; width=&quot;98%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/modular_frame.pdf&quot;&gt;Modular Frame.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/modular_frame.pdf&quot;&gt;Modular Frame.pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/machineboxfile.pdf&quot;&gt;Machine Box File.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/machineboxfile.pdf&quot;&gt;Machine Box File.pdf&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/xy_plotter.py&quot;&gt;Machine Code for Double Axis.py&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Our final machine was a dot plotter. Once each machine was built we created a plate that was attached to the top that would hold the pen/marker. using X,Y cordinates we were able to program the machine to move at first back and forth and then once the other machine was added perpendicular to the other machine we could then draw a square.</summary></entry><entry><title type="html">Output Devices</title><link href="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/03/29/output-devices.html" rel="alternate" type="text/html" title="Output Devices" /><published>2017-03-29T10:25:21-04:00</published><updated>2017-03-29T10:25:21-04:00</updated><id>http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/03/29/output-devices</id><content type="html" xml:base="http://localhost:4000/archives/2017/fablabiu1/students/418/jekyll/update/2017/03/29/output-devices.html">&lt;p&gt;For Sarah and I’s output device, we used Eagle to design and trace a circuit, which connects to our Satshakit (Arduino Uno Clone) to flash a RGB LED (common anode) with the appropriate resistors/header pins:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/xy_plotter.py&quot;&gt;Machine Code for Double Axis.py&lt;/a&gt;&lt;/p&gt;</content><summary type="html">Our final machine was a dot plotter. Once each machine was built we created a plate that was attached to the top that would hold the pen/marker. using X,Y cordinates we were able to program the machine to move at first back and forth and then once the other machine was added perpendicular to the other machine we could then draw a square.</summary></entry><entry><title type="html">Output Devices</title><link href="http://localhost:4000/jekyll/update/2017/03/29/output-devices.html" rel="alternate" type="text/html" title="Output Devices" /><published>2017-03-29T10:25:21-04:00</published><updated>2017-03-29T10:25:21-04:00</updated><id>http://localhost:4000/jekyll/update/2017/03/29/output-devices</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/03/29/output-devices.html">&lt;p&gt;For Sarah and I’s output device, we used Eagle to design and trace a circuit, which connects to our Satshakit (Arduino Uno Clone) to flash a RGB LED (common anode) with the appropriate resistors/header pins:&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output1.jpg&quot; alt=&quot;output pic 1&quot; width=&quot;49%&quot; /&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output2.jpg&quot; alt=&quot;output pic 2&quot; width=&quot;49%&quot; /&gt;
+&lt;img src=&quot;/IMGs/9output1.jpg&quot; alt=&quot;output pic 1&quot; width=&quot;49%&quot; /&gt;
+&lt;img src=&quot;/IMGs/9output2.jpg&quot; alt=&quot;output pic 2&quot; width=&quot;49%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/update8.jpg&quot; alt=&quot;output pic 3&quot; width=&quot;100%&quot; /&gt;
+&lt;img src=&quot;/IMGs/update8.jpg&quot; alt=&quot;output pic 3&quot; width=&quot;100%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output3.jpg&quot; alt=&quot;output pic 3&quot; width=&quot;100%&quot; /&gt;
+&lt;img src=&quot;/IMGs/9output3.jpg&quot; alt=&quot;output pic 3&quot; width=&quot;100%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1180,7 +1180,7 @@ The wait time for the silicon rubber to dry was 24 hours. On that next day, I pr
 &lt;p&gt;Below are the connections Sarah and I made, followed by the program we used to run the output device using Arduino IDE:&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output4.jpg&quot; alt=&quot;output pic 4&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;/IMGs/9output4.jpg&quot; alt=&quot;output pic 4&quot; width=&quot;90%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1190,7 +1190,7 @@ The wait time for the silicon rubber to dry was 24 hours. On that next day, I pr
 &lt;p&gt;I first started by defineing the pins to the appropriate LED color, making sure all variables are labeled correctly. Next I played around with the different analog signals (0-255) to see how the different color outputs just before I created my FOR loops. See full code at the bottom of this page.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img src=&quot;/archives/2017/fablabiu1/students/418/IMGs/9output5.jpg&quot; alt=&quot;output pic 5&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;/IMGs/9output5.jpg&quot; alt=&quot;output pic 5&quot; width=&quot;90%&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -1204,8 +1204,8 @@ The wait time for the silicon rubber to dry was 24 hours. On that next day, I pr
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h1 id=&quot;digital-files&quot;&gt;&lt;strong&gt;Digital Files:&lt;/strong&gt;&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/RGB.sch&quot;&gt;RGB.sch&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/RGB.sch&quot;&gt;RGB.sch&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/RGB.brd&quot;&gt;RGB.brd&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/files/RGB.brd&quot;&gt;RGB.brd&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/archives/2017/fablabiu1/students/418/files/RGB_LED_Program.ino&quot;&gt;RGB LED Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s output device, we used Eagle to design and trace a circuit, which connects to our Satshakit (Arduino Uno Clone) to flash a RGB LED (common anode) with the appropriate resistors/header pins:</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;/files/RGB_LED_Program.ino&quot;&gt;RGB LED Code.ino&lt;/a&gt;&lt;/p&gt;</content><summary type="html">For Sarah and I’s output device, we used Eagle to design and trace a circuit, which connects to our Satshakit (Arduino Uno Clone) to flash a RGB LED (common anode) with the appropriate resistors/header pins:</summary></entry></feed>

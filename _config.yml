@@ -20,7 +20,7 @@ description: > # this means to ignore newlines until "baseurl:"
   assignments. The Fab Academy was developed to teach hands-on skills 
   in fab labs and began as an outreach project from MIT’s Center for 
   Bits and Atoms.
-baseurl: "/archives/2017/fablabiu1/students/418" # the subpath of your site, e.g. /blog
+#baseurl: "/archives/2017/fablabiu1/students/418" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: IU1FabLab
 github_username:  jekyll
